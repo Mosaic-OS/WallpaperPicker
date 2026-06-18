@@ -1,0 +1,1 @@
+This is an independent project based on [YAAP WallpaperPicker](https://github.com/yaap/packages_apps_WallpaperPicker2). It is **not affiliated with, endorsed by, or maintained by the YAAP team** - all credit for the original application goes to its authors.
